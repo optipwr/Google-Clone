@@ -1,0 +1,75 @@
+html {
+	color: #777;
+}
+
+#header {
+	height: 100px;
+	background-color: white;
+}
+
+#body {
+	text-align: center;
+}
+#search-wrapper {
+
+}
+.mic {
+	position: absolute;
+	height: 25px;
+	margin: 5px 0px -10px -30px;
+}
+
+.personal-pic {
+	border-radius: 50%;
+}
+
+.my-search{
+	width: 500px;
+	height: 35px;
+	border: 1px solid #4D90FE;
+}
+
+#button-holder {
+	padding-top: 20px;
+}
+
+.btn {
+	height: 28px;
+}
+
+#footer {
+	height: 40px;
+	background-color: #F2F2F2;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+#menu {
+	position: absolute;
+	right: 20px;
+}
+
+.menu-item {
+	display:  inline-block;
+	padding: 15px 8px;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.top-menu {
+	padding: 0px 8px 12px 8px;
+	font-family: Arial;
+	font-size: 12px;
+	display: inline-block;
+	/* position: absolute; */
+}
+
+#left-footer{
+	position: absolute;
+}
+
+#right-footer {
+	position: absolute;
+	right: 20px;
+}
